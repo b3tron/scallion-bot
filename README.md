@@ -91,9 +91,3 @@ verifybot/bot.py       buttons, pop-ups, slash commands, role assignment
 verifybot/messages.py  all member-facing text
 tests/                 pytest suite
 ```
-
-## Open questions for Arjun
-- Should non-UCSB people (alumni, other UCs) self-verify via an extra domain, or always go through an officer?
-- Is the existing member role the right one to reuse, or do we want a separate Verified role?
-- Is storing members' emails OK, or should we store only a hash (still blocks alts, but officers lose `lookup`/`whois`)?
-- Should verification also set the member's nickname to their real name (would need a name field)?

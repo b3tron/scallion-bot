@@ -1,4 +1,4 @@
-# Assistive Tech Discord Verification Bot
+# Scallion Bot
 
 Replaces the Google Form + manual review with instant, automatic verification using a UCSB email.
 
